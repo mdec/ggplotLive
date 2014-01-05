@@ -14,8 +14,7 @@ in a live Shiny app, updating the plot until you get what you want? Then downloa
 
 How To
 ==========
-See the 'How To' tab for usage instructions.
+Open the app at http://spark.rstudio.com/md2477/ggplotLive, and see the 'How To' tab for usage instructions.
 
 
-View more Shiny examples at http://www.showmeshiny.com.
-
+View more Shiny examples at http://www.showmeshiny.com, or get updates on new Shiny apps by following [@showmeshiny](http://www.twitter.com/showmeshiny).
