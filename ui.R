@@ -36,7 +36,7 @@ shinyUI(
                 )
             ),
             div(HTML("<br>This app was created by Mason DeCamillis.
-                     <br>Code available at <a href='https://github.com/md2477/ggplotLive' target='_blank'>https://github.com/md2477/ggplotLive</a>.
+                     <br>Code available at <a href='https://github.com/mdec/ggplotLive' target='_blank'>https://github.com/md2477/ggplotLive</a>.
                      <br>See more at <a href='http://www.showmeshiny.com' target='_blank'>showmeshiny.com</a> and follow <a href='http://www.twitter.com/showmeshiny' target='_blank'>@showmeshiny</a>."))
         ),
             
